@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26403.7
+VisualStudioVersion = 15.0.26430.4
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetMvcDemo", "AspNetMvcDemo\AspNetMvcDemo.csproj", "{1A3BB402-462B-434B-8965-0677D67B9DCB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetWebApiDemo", "AspNetWebApiDemo\AspNetWebApiDemo.csproj", "{84745A01-F9B9-45FC-8941-6C37F7A3F292}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{1A3BB402-462B-434B-8965-0677D67B9DCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1A3BB402-462B-434B-8965-0677D67B9DCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1A3BB402-462B-434B-8965-0677D67B9DCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84745A01-F9B9-45FC-8941-6C37F7A3F292}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84745A01-F9B9-45FC-8941-6C37F7A3F292}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84745A01-F9B9-45FC-8941-6C37F7A3F292}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84745A01-F9B9-45FC-8941-6C37F7A3F292}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
